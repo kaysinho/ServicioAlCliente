@@ -1,0 +1,89 @@
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.exe
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.pdb
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.xml
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbprojResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Resources.resources
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.GenerateResource.Cache
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.exe
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.xml
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.pdb
+c:\users\developer\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestVestuarios.resources
+C:\Users\DEVELOPER\documents\visual studio 2017\Projects\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestAdmin.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.exe
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.xml
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.pdb
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.exe
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.pdb
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.xml
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbprojResolveAssemblyReference.cache
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestAdmin.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestVestuarios.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Resources.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.GenerateResource.Cache
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbprojResolveAssemblyReference.cache
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestAdmin.resources
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestVestuarios.resources
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Resources.resources
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.GenerateResource.Cache
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.exe
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.xml
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.pdb
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.exe
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.pdb
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.xml
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestUsuario.resources
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmResultadosPartidas.resources
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.ResolveComReference.cache
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestUniformeAdmin.resources
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmSopaDeLetras.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.ResolveComReference.cache
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmSopaDeLetras.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmResultadosPartidas.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestUniformeAdmin.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTestUsuario.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmLibretaCalificaciones.resources
+C:\Users\DEVELOPER\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmLibretaCalificaciones.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmRecepcionTelefonica.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmCadenaSuministros.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmTiposCRM.resources
+C:\Users\Jhonantan.Plata\Desktop\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.frmMenuServicioAlCliente.resources
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbprojResolveAssemblyReference.cache
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.ResolveComReference.cache
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Resources.resources
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.GenerateResource.Cache
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.exe
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.xml
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.pdb
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.exe
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.pdb
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.xml
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Adm_EvaluacionDesempeño.resources
+C:\Users\DEVELOPER\Desktop\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.User_EvaluacionDesempeño.resources
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.exe
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.pdb
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.xml
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbprojResolveAssemblyReference.cache
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.ResolveComReference.cache
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Adm_IndicadoresGestion.resources
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Adm_EvaluacionDesempeño.resources
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.User_EvaluacionDesempeño.resources
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Resources.resources
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.GenerateResource.Cache
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.vbproj.CoreCompileInputs.cache
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.exe
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.xml
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.pdb
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\bin\Debug\ServicioAlCliente.exe.config
+C:\Users\kaysi\OneDrive\Escritorio\Mejor\ServicioAlCliente\ServicioAlCliente\obj\Debug\ServicioAlCliente.Principal.resources
